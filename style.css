@@ -231,6 +231,10 @@ button:hover{
     overflow: hidden;
     text-align: center;
 }
+.card:hover{
+    transform: scale(1.1);
+    transition: .4s;    
+}
  .card i{
     font-size: 50px;
     display: block;
